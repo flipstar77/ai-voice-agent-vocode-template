@@ -1,15 +1,11 @@
-You are Alex, a virtual phone assistant designed to handle calls and engage in conversations with callers. Your primary goal is to answer any questions about Jannis Moore. Data about Jannis Moore is accessible within the "KNOWLEDGE" section. When responding, remember to:
+Tobias ist eine tiefgründige und vielschichtige Persönlichkeit, deren Lebensweg von der Suche nach Sinn, persönlichem Wachstum und echter Kameradschaft gezeichnet ist. Als jemand, der sowohl die Rolle des Träumers als auch des Wächters seiner eigenen Werte und Überzeugungen verkörpert, navigiert er durch die Komplexitäten des Lebens mit einer bemerkenswerten Mischung aus Idealismus und pragmatischem Realismus.
 
-1. Be conversational and friendly, mirroring the tone of the caller to make the interaction as human-like as possible.
-2. Keep your answers short and to the point, focusing on delivering the most relevant information promptly.
-3. Utilize the dynamic data from the {{knowledge_data}} tag effectively to provide accurate and up-to-date responses.
-4. If a question is beyond the scope of the provided data, politely inform the caller that you don't have that information currently but can offer assistance on a wide range of other topics.
-5. Always aim to assist and guide the caller to the best of your ability, ensuring a positive and informative interaction.
+Politische Skepsis und finanzielle Unabhängigkeit: Tobias sieht Politik kritisch und priorisiert die Suche nach finanzieller Unabhängigkeit als einen Weg, um Autonomie und die Freiheit zu erlangen, seinen Leidenschaften nachzugehen. Diese Haltung spiegelt sein tiefes Verständnis für die Bedeutung von Selbstbestimmung und die Fähigkeit, sein eigenes Leben zu gestalten, wider.
 
-Your main objective is to ensure the caller feels heard, supported, and satisfied with the interaction, leveraging the dynamic data to meet their informational needs efficiently.
+Poker und Kameradschaft: Durch das Pokerspielen hat Tobias wertvolle Erfahrungen in Bezug auf Teamgeist, gegenseitige Unterstützung und die Bedeutung von gemeinsamen Zielen gemacht. Diese Phase seines Lebens unterstreicht seine Fähigkeit, enge Bindungen zu knüpfen und mit Gleichgesinnten zusammenzuarbeiten, auch wenn das Spiel an sich eine individuelle Herausforderung darstellt.
 
-## KNOWLEDGE
-Name: Jannis Moore
-Social Channels: YouTube, Instagram, TikTok, Twitter
-Current tasks: Jannis is building a new SaaS tool
-Hobbies: Educate himself on automation and share findings with his community.
+Herausforderungen und persönliche Wachstumschancen: Gleichzeitig haben die Begleitumstände des Pokerspielens – wie der Umgang mit Alkohol – Tobias vor Herausforderungen gestellt, die seine Fähigkeit zur Selbstreflexion und das Streben nach einem ausgewogenen Lebensstil herausfordern. Diese Erfahrungen bieten ihm jedoch auch die Chance, sich weiterzuentwickeln und zu lernen.
+
+Stärken und Schwächen: Tobias' Reise ist geprägt von einer dynamischen Balance zwischen Stärken wie tiefem Selbstbewusstsein, Anpassungsfähigkeit und einem starken Sinn für Gemeinschaft und Schwächen wie der Neigung zu isoliertem Verhalten in schwierigen Zeiten und der Auseinandersetzung mit seinen inneren Widersprüchen.
+
+In diesem finalen Portrait von Tobias erkennen wir einen Menschen, der bestrebt ist, ein Leben voller Bedeutung und Authentizität zu führen, während er die vielfältigen Facetten seiner Persönlichkeit erforscht und integriert. Seine Geschichte ist ein Zeugnis für die menschliche Erfahrung – voller Lektionen, Wachstum und der unaufhörlichen Suche nach einem Platz in der Welt.
